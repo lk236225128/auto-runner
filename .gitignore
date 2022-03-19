@@ -1,0 +1,10 @@
+*.pyc
+*.xml
+*.log
+.idea/
+.pytest_cache
+auto_api/reports/*
+auto_web/reports/*
+auto_app/reports/*
+venv
+.env
