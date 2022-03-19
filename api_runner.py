@@ -4,10 +4,7 @@
 # @File : api_runner.py
 # @Software: PyCharm
 
-import os
 import pytest
-
-base_path = os.path.abspath(os.path.dirname(__file__))
 
 if __name__ == '__main__':
     pytest.main(["auto_api/baidu_demo/testcases/",

@@ -1,0 +1,24 @@
+[
+{
+    "prob": 1,
+    "activity":"com.baidu.MainTabActivity",
+    "times": 100,
+    "actions": [
+        {
+            "id":"kw",
+            "action": "CLICK",
+            "text":"Hogwarts",
+            "throttle": 3000
+        },
+        {
+            "id":"su",
+            "action": "CLICK",
+            "throttle": 3000
+        }
+    ]
+},
+]
+
+
+
+
